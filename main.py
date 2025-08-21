@@ -30,4 +30,5 @@ else:
     plt.title(f'Distribuição de Gastos - {mes_desejado}')
     plt.ylabel('')
     plt.tight_layout()
+    plt.savefig("grafico.png")
     plt.show()
