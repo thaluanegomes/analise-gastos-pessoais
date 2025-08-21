@@ -57,5 +57,7 @@ Gráfico de pizza mostrando visualmente seus gastos
 
 Filtro por mês digitado pelo usuário
 
+![Gráfico de Gastos] (gráfico.png)
+
 ## 💁‍♀️  Sobre mim
 Esse projeto foi criado por mim, Thaluane, como parte do meu aprendizado em Python e análise de dados.
